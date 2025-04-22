@@ -4,7 +4,7 @@ Excel Sales Dashboard - Multi-City Performance Analysis
 
 ## Overview
 
-This project is a **dynamic Excel Dashboard** designed to monitor and visualize **Sales Executive Performance** across multiple cities in India: **Chennai, Delhi, Mumbai, Nagpur, Patna, Pune, Ranchi, and Surat**. It offers a concise, interactive view of:
+This project is a **Dynamic Excel Dashboard** designed to monitor and visualize **Sales Executive Performance** across multiple cities in India: **Chennai, Delhi, Mumbai, Nagpur, Patna, Pune, Ranchi, and Surat**. It offers a concise, interactive view of:
 - Total Sales
 - Target Hit %
 - Gap From Target
